@@ -1,0 +1,55 @@
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+D:\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\PMAC C SHARP EXAMPLE.exe.config
+D:\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\PMAC C SHARP EXAMPLE.exe
+D:\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\PMAC C SHARP EXAMPLE.pdb
+D:\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Interop.PCOMMSERVERLib.dll
+D:\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Interop.PMACSERVERLib.dll
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.exe
+D:\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\PMAC C SHARP EXAMPLE.exe.config
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\PMAC C SHARP EXAMPLE.exe
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Emgu.CV.UI.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Emgu.CV.UI.GL.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Emgu.CV.World.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Interop.PMACSERVERLib.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\ZedGraph.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Emgu.CV.UI.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Emgu.CV.UI.GL.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\Emgu.CV.World.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.exe
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.Blob.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.Extensions.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.Blob.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.Blob.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.Extensions.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.Extensions.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.UserInterface.pdb
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\bin\x86\Debug\OpenCvSharp.UserInterface.xml
+G:\课件\大三下\智能运行与控制\上位机\第3组上位机\PMAC C SHARP EXAMPLE\obj\x86\Debug\PMAC C SHARP EXAMPLE.csproj.AssemblyReference.cache

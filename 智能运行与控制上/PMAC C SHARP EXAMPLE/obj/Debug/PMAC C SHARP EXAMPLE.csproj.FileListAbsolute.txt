@@ -1,0 +1,167 @@
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\Interop.PMACSERVERLib.dll
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.ResolveComReference.cache
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.Cache
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\Interop.PMACSERVERLib.dll
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Documents and Settings\WDC\My Documents\Visual Studio 2008\Projects\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\admin\Desktop\C-sharp\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.ResolveComReference.cache
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+D:\project\1_pmac项目\c#\pmac_demo_Torbo\C sharp\PMAC C SHARP EXAMPLE\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\Interop.PCOMMSERVERLib.dll
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.ResolveComReference.cache
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\machine\project\graduate_design\C sharp\pmac_demo\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\汕头大学\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.DEMO.resources
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+G:\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+C:\Users\amour\Desktop\pmac_demo_Torbo\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\amour\Desktop\pmac_demo_Torbo (2)\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+C:\Users\amour\Desktop\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+G:\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+G:\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+G:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+E:\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+E:\第x组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+E:\第x组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\第3组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+E:\第3组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+E:\第3组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+E:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\第3组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe.config
+G:\第3组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.exe
+G:\第3组上位机\PMAC C SHARP EXAMPLE\bin\Debug\PMAC C SHARP EXAMPLE.pdb
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csprojAssemblyReference.cache
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Main.resources
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.index.resources
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC_C_SHARP_EXAMPLE.Properties.Resources.resources
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.GenerateResource.cache
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CoreCompileInputs.cache
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.csproj.CopyComplete
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.exe
+G:\第3组上位机\PMAC C SHARP EXAMPLE\obj\Debug\PMAC C SHARP EXAMPLE.pdb
