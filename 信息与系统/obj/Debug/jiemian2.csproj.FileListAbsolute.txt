@@ -1,0 +1,733 @@
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\Basler.Pylon.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\汕头大学\Desktop\界 面\界面\jiemian2\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\Basler.Pylon.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\汕头大学\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\amour\Desktop\张子枫\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\amour\Desktop\张子枫\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\Basler.Pylon.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\汕头大学\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\amour\Desktop\张子枫222\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\amour\Desktop\张子枫222\jiemian2\obj\Debug\jiemian2.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\jiemian2.exe.config
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\jiemian2.exe
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\jiemian2.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Google.Protobuf.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\MySql.Data.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\System.Buffers.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\System.Memory.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Zstandard.Net.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Basler.Pylon.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Google.Protobuf.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Google.Protobuf.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\MySql.Data.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\System.Buffers.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\System.Memory.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.Form1.resources
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.exe
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.pdb
+G:\课件\大三下\智能运行与控制\上位机\张子枫222\jiemian2\obj\Debug\jiemian2.Form2.resources
+E:\二级项目-智能系统\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\jiemian2.exe.config
+E:\二级项目-智能系统\jiemian2\bin\Debug\jiemian2.exe
+E:\二级项目-智能系统\jiemian2\bin\Debug\jiemian2.pdb
+E:\二级项目-智能系统\jiemian2\bin\Debug\Basler.Pylon.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\Google.Protobuf.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\MySql.Data.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\System.Buffers.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\System.Memory.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\Zstandard.Net.dll
+E:\二级项目-智能系统\jiemian2\bin\Debug\Basler.Pylon.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\Google.Protobuf.pdb
+E:\二级项目-智能系统\jiemian2\bin\Debug\Google.Protobuf.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\MySql.Data.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.pdb
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\二级项目-智能系统\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\System.Buffers.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\System.Memory.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\二级项目-智能系统\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+E:\二级项目-智能系统\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.Form1.resources
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.Form2.resources
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.exe
+E:\二级项目-智能系统\jiemian2\obj\Debug\jiemian2.pdb
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+D:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+D:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+D:\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\jiemian2 (2)\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+D:\jiemian2 (2)\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+D:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+E:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+E:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+E:\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+E:\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+G:\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+G:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+G:\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+G:\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+G:\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+G:\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+G:\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\jiemian2 (2)\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+G:\jiemian2 (2)\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+G:\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\amour\Desktop\jiemian2 (2)\jiemian2 (2)\jiemian2\bin\Debug\halcondotnet.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\halcondotnet.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\86133\Desktop\新建文件夹\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\halcondotnet.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+D:\大学文件\四上\二级项目\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csprojAssemblyReference.cache
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form1.resources
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Form2.resources
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.exe
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe.config
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.exe
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\jiemian2.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\halcondotnet.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\Zstandard.Net.dll
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\Basler.Pylon.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\Google.Protobuf.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\MySql.Data.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\System.Buffers.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\System.Memory.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\温雯婷\Downloads\jiemian2 (2)\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\jiemian2.exe.config
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\jiemian2.exe
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\jiemian2.pdb
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Google.Protobuf.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\halcondotnet.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\MySql.Data.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\System.Buffers.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\System.Memory.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Zstandard.Net.dll
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Basler.Pylon.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Google.Protobuf.pdb
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Google.Protobuf.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\MySql.Data.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.pdb
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\System.Buffers.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\System.Memory.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\课件\大四上\信息与系统\111\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.Form1.resources
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.Form2.resources
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.exe
+G:\课件\大四上\信息与系统\111\jiemian2\obj\Debug\jiemian2.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\jiemian2.exe.config
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\jiemian2.exe
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\jiemian2.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\BouncyCastle.Crypto.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Google.Protobuf.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\halcondotnet.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\K4os.Compression.LZ4.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\K4os.Hash.xxHash.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\MySql.Data.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.Blob.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.Extensions.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\System.Buffers.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\System.Memory.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Ubiety.Dns.Core.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Zstandard.Net.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Basler.Pylon.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Google.Protobuf.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Google.Protobuf.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\K4os.Compression.LZ4.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\K4os.Hash.xxHash.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\MySql.Data.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.Blob.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.Blob.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.Extensions.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.Extensions.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.UserInterface.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\OpenCvSharp.UserInterface.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\System.Buffers.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\System.Memory.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\课件\大四上\信息与系统\第五组\jiemian2\bin\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.csproj.AssemblyReference.cache
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\Interop.PCOMMSERVERLib.dll
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.csproj.ResolveComReference.cache
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.Form1.resources
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.Form2.resources
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.Properties.Resources.resources
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.csproj.GenerateResource.cache
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.csproj.CoreCompileInputs.cache
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.csproj.CopyComplete
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.exe
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.pdb
+G:\课件\大四上\信息与系统\第五组\jiemian2\obj\Debug\jiemian2.csproj.SuggestedBindingRedirects.cache

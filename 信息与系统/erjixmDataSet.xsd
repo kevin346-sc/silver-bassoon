@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="erjixmDataSet" targetNamespace="http://tempuri.org/erjixmDataSet.xsd" xmlns:mstns="http://tempuri.org/erjixmDataSet.xsd" xmlns="http://tempuri.org/erjixmDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="erjixmConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="erjixmConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.jiemian2.Properties.Settings.GlobalReference.Default.erjixmConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="chipTableAdapter" GeneratorDataComponentClassName="chipTableAdapter" Name="chip" UserDataComponentName="chipTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="erjixmConnectionString (Settings)" DbObjectName="erjixm.chip" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `amount`, `id`, `position_x`, `positon_y` FROM `chip`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="erjixmDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="erjixmDataSet" msprop:Generator_UserDSName="erjixmDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="chip" msprop:Generator_TableClassName="chipDataTable" msprop:Generator_TableVarName="tablechip" msprop:Generator_TablePropName="chip" msprop:Generator_RowDeletingName="chipRowDeleting" msprop:Generator_RowChangingName="chipRowChanging" msprop:Generator_RowEvHandlerName="chipRowChangeEventHandler" msprop:Generator_RowDeletedName="chipRowDeleted" msprop:Generator_UserTableName="chip" msprop:Generator_RowChangedName="chipRowChanged" msprop:Generator_RowEvArgName="chipRowChangeEvent" msprop:Generator_RowClassName="chipRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
